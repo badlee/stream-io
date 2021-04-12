@@ -1,0 +1,3 @@
+[submodule "stream-io-admin"]
+	path = cmd/server/public-src
+	url = https://github.com/badlee/stream-io-admin
